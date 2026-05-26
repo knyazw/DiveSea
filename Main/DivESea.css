@@ -2320,7 +2320,7 @@ font-size: 18px;
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .header {
     width: calc(100% - 28px);
   }
