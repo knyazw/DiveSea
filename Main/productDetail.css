@@ -526,7 +526,7 @@ font-size: 18px;
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     .main-block {
         grid-template-columns: 1fr;
         grid-template-rows: auto;

@@ -472,9 +472,25 @@ button {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     .three-blocks span {
         font-size: 11px;
         padding: 0 8px;
+    }
+
+    .Slider1,
+    .Slider2,
+    .Slider3,
+    .Slider4{
+        width: 70%;
+        height: 58vh;
+    }
+
+    .buttonslider{
+        padding: 15px 20px 15px 20px;
+    }
+
+    .main__grid{
+        place-items: center;
     }
 }
